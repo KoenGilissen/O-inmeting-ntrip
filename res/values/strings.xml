@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	<string name="app_name">O-inmeting-connect</string>
+	<string name="app_name_long">O-inmeting-connect</string>
+	<string name="app_name_settings">O-inmeting-connect - Settings</string>
+	
+	<string name="ld_logo_desc">Square9 Design Logo</string>
+
+	<string name="service_started">NTRIP Service Running</string> 
+	<string name="service_label">NTRIP Service</string>
+
+    <string name="buttonText_startMeasurement">Start Measurement</string>
+    <string name="buttonText_startRetrace">Start Retrace</string>
+
+</resources>
