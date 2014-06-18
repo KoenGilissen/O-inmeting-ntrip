@@ -181,7 +181,6 @@ public class MainActivity extends Activity {
         buttonStartMeasurement = (Button) findViewById(R.id.button_start_measurement);
         buttonStartRetrace = (Button) findViewById(R.id.button_start_retrace);
 
-
         btnService.setOnClickListener(ListenerBtnService);
         textInfo1.setOnClickListener(ListenerToggleDisplayMsgType);
         textInfo2.setOnClickListener(ListenerToggleDisplayMsgType);
